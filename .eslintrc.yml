@@ -1,0 +1,11 @@
+plugins:
+  - prettier
+extends:
+  - airbnb-base
+  - prettier
+rules:
+  global-require: off
+  no-param-reassign: off
+  no-shadow: off
+  import/no-dynamic-require: off
+  prettier/prettier: error

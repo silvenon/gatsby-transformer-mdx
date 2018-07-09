@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+*.log
+.vscode
+
+/extend-node-type.js
+/gatsby-node.js
+/index.js
+/on-node-create.js
