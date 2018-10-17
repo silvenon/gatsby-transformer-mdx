@@ -1,4 +1,8 @@
-# 🚧 gatsby-transformer-mdx 🚧
+# gatsby-transformer-mdx
+
+**This project is no longer maintained, use [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) instead.**
+
+---
 
 Gatsby transformer plugin for [MDX](https://github.com/mdx-js/mdx), heavily based on [gatsby-transformer-remark](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-transformer-remark).
 
