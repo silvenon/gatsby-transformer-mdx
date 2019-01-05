@@ -1,4 +1,4 @@
-# gatsby-transformer-mdx
+# gatsby-transformer-mdx ![not maintained](https://img.shields.io/badge/maintained-no-lightgrey.svg?style=flat-square)
 
 **This project is no longer maintained, use [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) instead.**
 
