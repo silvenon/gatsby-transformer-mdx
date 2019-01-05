@@ -1,6 +1,6 @@
-# gatsby-transformer-mdx ![not maintained](https://img.shields.io/badge/maintained-no-lightgrey.svg?style=flat-square)
+# gatsby-transformer-mdx ![deprecated](https://img.shields.io/badge/status-deprecated-lightgrey.svg?style=flat-square)
 
-**This project is no longer maintained, use [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) instead.**
+**Deprecated**: This project is no longer maintained, use [gatsby-mdx](https://github.com/ChristopherBiscardi/gatsby-mdx) instead.
 
 ---
 
